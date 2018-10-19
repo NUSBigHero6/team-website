@@ -17,3 +17,26 @@ body {
 .rounded-circle{
   width: 225px;
 }
+
+.links{
+  list-style: none;
+  display: flex;
+  padding: 0;
+  justify-content: center;
+}
+
+.links li{
+  padding:0 10px;
+}
+
+.links i{
+  font-size: 1.5em;
+}
+
+small {
+  font-weight: 300;
+}
+
+h3{
+  margin-top: 20px;
+}
